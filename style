@@ -1,0 +1,22 @@
+body {
+  background-color: #87CEEB; /* Light blue color */
+}
+
+h1 {
+  font-size: 30px;
+  text-align: center;
+  color: red;
+}
+
+h2 {
+  color: red;
+  width: 500px;
+  border: 1px solid black;
+}
+
+p {
+  font-size: 20px;
+  text-align: right;
+  font-family: Helvetica, sans-serif;
+  color: blue;
+}
